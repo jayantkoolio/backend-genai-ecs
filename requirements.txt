@@ -1,0 +1,10 @@
+audiocraft==1.1.0
+boto3==1.28.40
+Flask==3.0.0
+music_tag==0.4.3
+soundfile==0.12.1
+torch==2.1.1
+music-tag
+python-dotenv
+ffmpeg
+git+https://github.com/facebookresearch/audiocraft#egg=audiocraft
